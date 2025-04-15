@@ -1,0 +1,30 @@
+D:\Escritorio\Nueva carpeta\net-2\net2\bin\Debug\net8.0\net2.exe
+D:\Escritorio\Nueva carpeta\net-2\net2\bin\Debug\net8.0\net2.deps.json
+D:\Escritorio\Nueva carpeta\net-2\net2\bin\Debug\net8.0\net2.runtimeconfig.json
+D:\Escritorio\Nueva carpeta\net-2\net2\bin\Debug\net8.0\net2.dll
+D:\Escritorio\Nueva carpeta\net-2\net2\bin\Debug\net8.0\net2.pdb
+D:\Escritorio\Nueva carpeta\net-2\net2\obj\Debug\net8.0\net2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Nueva carpeta\net-2\net2\obj\Debug\net8.0\net2.AssemblyInfoInputs.cache
+D:\Escritorio\Nueva carpeta\net-2\net2\obj\Debug\net8.0\net2.AssemblyInfo.cs
+D:\Escritorio\Nueva carpeta\net-2\net2\obj\Debug\net8.0\net2.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nueva carpeta\net-2\net2\obj\Debug\net8.0\net2.sourcelink.json
+D:\Escritorio\Nueva carpeta\net-2\net2\obj\Debug\net8.0\net2.dll
+D:\Escritorio\Nueva carpeta\net-2\net2\obj\Debug\net8.0\refint\net2.dll
+D:\Escritorio\Nueva carpeta\net-2\net2\obj\Debug\net8.0\net2.pdb
+D:\Escritorio\Nueva carpeta\net-2\net2\obj\Debug\net8.0\net2.genruntimeconfig.cache
+D:\Escritorio\Nueva carpeta\net-2\net2\obj\Debug\net8.0\ref\net2.dll
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\bin\Debug\net8.0\net2.exe
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\bin\Debug\net8.0\net2.deps.json
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\bin\Debug\net8.0\net2.runtimeconfig.json
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\bin\Debug\net8.0\net2.dll
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\bin\Debug\net8.0\net2.pdb
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\obj\Debug\net8.0\net2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\obj\Debug\net8.0\net2.AssemblyInfoInputs.cache
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\obj\Debug\net8.0\net2.AssemblyInfo.cs
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\obj\Debug\net8.0\net2.csproj.CoreCompileInputs.cache
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\obj\Debug\net8.0\net2.sourcelink.json
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\obj\Debug\net8.0\net2.dll
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\obj\Debug\net8.0\refint\net2.dll
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\obj\Debug\net8.0\net2.pdb
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\obj\Debug\net8.0\net2.genruntimeconfig.cache
+C:\Users\xxxte\OneDrive - Corporación Santo Tomas\Desktop\ST\NET\Eva1\net-2\net2\obj\Debug\net8.0\ref\net2.dll
